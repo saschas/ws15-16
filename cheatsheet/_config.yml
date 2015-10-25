@@ -1,8 +1,8 @@
 # Site settings
-title: cheatsheet
+title: Technologie 1 Übung
 email: sigl@htw-berlin.de
 description: > # this means to ignore newlines until "baseurl:"
-  Das Cheatsheet dient der inhaltlichen Zusammenfassung des Kurses Technologie 1 Übung WS 15|16.  
+   Das Cheatsheet dient der inhaltlichen Zusammenfassung des Kurses Technologie 1 Übung WS 15|16.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://localhost:4000" #http://spendlifeforgooddesign.com the base hostname & protocol for your site
 twitter_username: ws15_16
