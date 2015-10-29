@@ -368,6 +368,7 @@ Selektor{
 }
 ```
 _Beispiel_
+
 ```css
 /*Färbt den Hintergrund des Bodys rot*/
 body{
